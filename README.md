@@ -1,4 +1,4 @@
-# Frontend Fundamental (Movies App)
+# Frontend Fundamental (Moviesapp)
 Learn frontend engineer topic about a fundamental frontend web apps
 
 ## Screenshot
