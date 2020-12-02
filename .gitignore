@@ -1,0 +1,9 @@
+.eslintrc.json
+node_modules/
+source/
+font-awesome.config.js
+package-lock.json
+package.json
+webpack.common.js
+webpack.dev.js
+webpack.prod.js
