@@ -7,3 +7,6 @@ webpack.common.js
 webpack.dev.js
 webpack.prod.js
 font-awesome.config.js
+babel.config.json
+postcss.config.js
+path.js
